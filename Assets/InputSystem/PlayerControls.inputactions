@@ -1,0 +1,34 @@
+{
+    "name": "PlayerControls",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "fb3eb883-d6ea-4d59-ba2e-a212031e154a",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "Value",
+                    "id": "402e1fc8-64a4-489d-81d3-bae1f1e5779d",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "57ffeb17-cb72-48db-a6ef-e38ed238847e",
+                    "path": "",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
