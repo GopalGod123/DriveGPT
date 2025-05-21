@@ -90,7 +90,6 @@ $RECYCLE.BIN/
 
 # Personal IDE settings
 .idea/
-.vscode/
 
 # Rider settings
 .idea/
@@ -106,3 +105,5 @@ $RECYCLE.BIN/
 *.log
 
 # Environment files (if any) 
+config.bat
+node_modules
